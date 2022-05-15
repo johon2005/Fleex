@@ -1,0 +1,26 @@
+.thirstDiv {
+  width: 100%;
+  background: #8f4c1714;
+  height: 682px;
+}
+.managethirst {
+  padding-top: 194px;
+  padding-left: 120px;
+}
+.getP {
+  padding-top: 31px;
+  padding-left: 120px;
+}
+.thirstRequest {
+  margin-left: 160px;
+  margin-top: 34px;
+}
+.thirstImgDiv {
+  display: flex;
+}
+.thirstI {
+  width: 800px;
+  height: 500px; 
+  margin-left: 500px; 
+  margin-top: -290px;
+}

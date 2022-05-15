@@ -1,0 +1,53 @@
+.dollarFifthBoss {
+  display: flex;
+}
+.bodyFifthFirstP {
+  margin-left: 110px;
+  margin-top: 110px;
+}
+.dollarIconDiv {
+  display: block;
+}
+.dollar {
+  margin-left: 120px;
+  margin-top: 103px;
+}
+.dollarFirstP {
+  margin-left: 100px;
+  margin-top: 23px;
+}
+.dollarSecondP {
+  margin-left: 100px;
+  margin-top: 5px;
+}
+.illDiv {
+  display: block;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.iconIll {
+  width: 60px;
+  height: 60px;
+}
+.illFirstP {
+  margin-top: 23px;
+}
+.illSecondP {
+  margin-top: 5px;
+}
+.magnetBossDiv {
+  display: block;
+}
+.magnetImg {
+  margin-left: 230px;
+  margin-top: 100px;
+}
+.magnetFirstP {
+  margin-left: 230px;
+  margin-top: 23px;
+}
+.magnetSecondP {
+margin-left: 230px; 
+margin-top: 5px;
+
+}
